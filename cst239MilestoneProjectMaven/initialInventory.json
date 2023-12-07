@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Sword",
+    "description": "A Good Sword, but not great",
+    "price": 29.99,
+    "quantity": 5
+  },
+  {
+    "name": "Bow",
+    "description": "A Sturdy Bow, almost like new",
+    "price": 39.99,
+    "quantity": 3
+  },
+  {
+    "name": "Plate Mail",
+    "description": "Heavy armor made of steel plates, this will be difficult to run in",
+    "price": 79.99,
+    "quantity": 2
+  },
+  {
+    "name": "Leather Armor",
+    "description": "Light armor made of leather, the shopkeeper will not tell you what kind",
+    "price": 49.99,
+    "quantity": 4
+  },
+  {
+    "name": "Health Potion",
+    "description": "Restores health points but has a terrible aftertaste",
+    "price": 9.99,
+    "quantity": 20
+  }
+]
